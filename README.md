@@ -24,8 +24,7 @@ http.createServer(function(req,res){ "Comando per inizializzare il server, al su
 	
            res.write('Ciao');"Questa inizia la risposta della comunicazione"
 	         res.end();"Questa chiude la risposta"
- 
-}).listen(5000);"Porta d'ascolto"
+		 }).listen(5000);"Porta d'ascolto"
  
  # DESCRIZIONE MATERIALI UTILIZZATI
  
@@ -35,8 +34,14 @@ http.createServer(function(req,res){ "Comando per inizializzare il server, al su
  - GoogleChrome
 
 Per la presentazione e spiegazione dell'argomento è stato utilizzato Microsoft PowerPoint, utilizzando il seguente file
-[PresentazionAPI_REST.pptx](https://github.com/Simone570/Readme_ApiRest/files/6500410/PresentazionAPI_REST.pptx)
+[Presentazione2 (2) (1).pptx](https://github.com/eltommis/ApiRest/files/6500715/Presentazione2.2.1.pptx)
+<br>
+Per la presentazione degli esercizi è stato utilizzato un file di tipo PDF, usando il seguente file
+[Esercizi ApiRest.pdf](https://github.com/eltommis/ApiRest/files/6500697/Esercizi.ApiRest.pdf)
+
  
  # DESCRIZIONE STRUMENTI/TECNOLOGIE
  
- Abbiamo utilizzato phpstorm per la parte di programmazione e Xampp perchè integrava il server Apache.
+Per la realizzazione dei programmi è stato consigliato di utilizzare:
+- XAMP: dalla quale ci si può collegare, attivando Apache, PhpMyAdmin.
+- VisualStudio: per scrivere il codice necessario per la creazione della pagina client-server
