@@ -34,7 +34,7 @@ http.createServer(function(req,res){ "Comando per inizializzare il server, al su
  - GoogleChrome
 
 Per la presentazione e spiegazione dell'argomento è stato utilizzato Microsoft PowerPoint, utilizzando il seguente file
-[Presentazione2 (2) (1).pptx](https://github.com/eltommis/ApiRest/files/6500715/Presentazione2.2.1.pptx)
+[ApiRest.pptx](https://github.com/eltommis/ApiRest/files/6500715/Presentazione2.2.1.pptx)
 <br>
 Per la presentazione degli esercizi è stato utilizzato un file di tipo PDF, usando il seguente file
 [Esercizi ApiRest.pdf](https://github.com/eltommis/ApiRest/files/6500697/Esercizi.ApiRest.pdf)
